@@ -7,10 +7,12 @@ This handy app will allow you to type in loan amount, interest and months. Then 
 # Status
 * Finished
 
-# Technologies Used:
+# Technologies Used
 * Java
 * Java Swing
 
+
+# Pictures
 ![Loan Calculator](pictures/loancalculator.png)
 
 ![Loan Calculator](pictures/loancalculatorresults.png)
